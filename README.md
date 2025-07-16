@@ -15,7 +15,7 @@ The optimization problem has been formulated and solved using data from real-wor
 ## Scope of application
 - Geographical area: Portugal, Spain, France, and Italy
 - Cities considered: 40 candidate cities (10 per country), selected for cultural relevance and accessibility
-- Pass type: Interrail Global Pass ñ ì7 days within 1 monthî
+- Pass type: Interrail Global Pass ‚Äì ‚Äú7 days within 1 month‚Äù
 - Optimization problem type: Combinatorial / Integer Linear Programming
 
 ## Data Sources 
@@ -23,13 +23,13 @@ The Tourism interest index is based on the average rating of the 5 top attractio
 The Average daily cost has been estimated via platforms like BudgetYourTrip, blogs, and travel portals. It includes lodging, food, and local transportation.
 
 ## Project Structure
-Codes_Collab.py ñ Code implementing the optimization model
-Codes_Collab.ipynb ñ Code implementing the optimization model
-Poster.png ñ Outputs of the optimization in(e.g., chosen itinerary, total cost)
-Ppt Presentation.pdf ñ 
-README.md ñ This file
-Report.pdf ñ Full report including methodology, results, and discussion (if applicable)
-interrail_data.xlsx ñ Contains city data (interest score and daily cost)
+- Codes_Collab.py ‚Äì Code implementing the optimization model   
+- Codes_Collab.ipynb ‚Äì Code implementing the optimization model  
+- Poster.png ‚Äì Outputs of the optimization in(e.g., chosen itinerary, total cost)  
+- Ppt Presentation.pdf ‚Äì Presentation slides summarizing the project (methodology, results, insights)  
+- README.md ‚Äì This file  
+- Report.pdf ‚Äì Full report including methodology, results, and discussion (if applicable)  
+- interrail_data.xlsx ‚Äì Contains city data (interest score and daily cost)    
 
 ## Output
 - Optimal itinerary: cities to visit, duration of stay, order of visits
